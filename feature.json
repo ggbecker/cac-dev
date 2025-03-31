@@ -1,0 +1,9 @@
+{
+    "name": "ComplianceAsCode/content Dev",
+    "version": "1.0.0",
+    "description": "Installs ComplianceAsCode/content development dependencies",
+    "icon": "https://complianceascode.github.io/assets/img/icon.png",
+    "dependencies": [
+        "ghcr.io/devcontainers/features/docker-in-docker"
+    ]
+  }
