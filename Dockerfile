@@ -38,4 +38,4 @@ RUN pip install docker ansible json2html docutils==0.17.1 \
         myst-parser \
         sphinx \
         sphinx-rtd-theme \
-        git+https://github.com/ggbecker/sphinxcontrib.jinjadomain.git#egg=sphinxcontrib-jinjadomain
+        git+https://github.com/mab879/sphinxcontrib.jinjadomain.git#egg=sphinxcontrib-jinjadomain
